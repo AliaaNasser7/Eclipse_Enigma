@@ -1,5 +1,5 @@
-# Eclipse_Enigma
-## NASA-Space-Apps-2023
+# Eclipse Enigma
+## NASA Space Apps 2023
 Eclipse Enigma is an educational game developed in 24 hours in Nasa Space App Hackathon for 2023
 
 
